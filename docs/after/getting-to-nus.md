@@ -3,7 +3,7 @@ id: getting-to-nus
 title: Getting to NUS
 ---
 ## By MRT
-Alight at Kent Ridge Terminal (CC24, yellow line). You may also want to purchase an Ez-link card since you will be boarding MRTs quite often. If you go to B1 Street Level, you can take NUS bus. 
+Alight at Kent Ridge MRT (CC24, yellow line). You may also want to purchase an Ez-link card since you will be boarding MRTs quite often. If you go to B1 Street Level, you can take NUS bus. 
 
 ### Prince George Park's (PGP R/H)
 
@@ -14,7 +14,7 @@ Cross the road using the underpass. Make sure you can see NUH building from wher
 Cross the road using the underpass. Make sure you can see NUH building from where you stand (it should be across the road). Only take **D2** bus. Alight at the last stop (Biz Carpark) and walk to the hall. (Down the hill).
 
 ### Temasek / Eusoff Hall
-Go the bus stop in front of NUH. **Don't cross the road**. Take **A1** bus. Alight at _Ventus_ (for Eusoff) or _AS5_ (for Temasek).
+Go the bus stop in front of NUH. **Don't cross the road**. Take **A1** bus. Alight at _LT13_ (for Eusoff) or _AS5_ (for Temasek).
 
 ### Raffles Hall
 Go the bus stop in front of NUH. **Don't cross the road**. Take **A1** bus and alight at _Yusof Ishak House_ (go to underpass and cross the road to RH) or take **D2** and alight at _Museum_ (cross the road to RH).
